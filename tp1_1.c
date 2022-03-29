@@ -2,7 +2,7 @@
 
 void main(void)
 {
-    int numero = 26;
+    int numero = 268;
     int *puntNumero;
 
     puntNumero = &numero;
